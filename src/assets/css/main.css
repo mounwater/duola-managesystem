@@ -19,3 +19,16 @@
 .site-layout .site-layout-background {
   background: #fff;
 }
+.anticon svg {
+  font-size: 24px;
+  /*   margin-left: 22px;
+  display: inline-block; */
+}
+.anticon[tabindex] {
+  cursor: pointer;
+  margin-left: 20px;
+}
+.logo {
+  width: 56%;
+  margin: 20px auto;
+}
